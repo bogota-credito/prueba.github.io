@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  margin-right: 6px;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-clock {
+  text-align: center;
+  display: inline-flex;
+  left: 40%;
+  height: 10%;
+  width: -10px;
+  font-size: 5rem;
+}
+
+.container-clock h1 {
+  font-size: 1rem;
+  margin-right: 15px;
+  font-weight: 400;
+  display: flex;
+}
+
+.container-clock p {
+  display: flex;
+  font-size: 2.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container2 {
+  right: 15px;
+  margin-top: 14px;
+}
